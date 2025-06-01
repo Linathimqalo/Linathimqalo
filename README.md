@@ -1,6 +1,6 @@
 ## 👋 Hello there! I'm Linathi
 
-🎯 **Systems Administrator | Cybersecurity Analyst | Aspiring Red & Blue Teamer**
+🎯 **Systems Administrator | Web Developer | Cybersecurity Analyst | Aspiring Red & Blue Teamer**
 
 ---
 
@@ -21,8 +21,7 @@
 
 ---
 
-### 🌟 Fun Facts:
-- 📍 Based in South Africa 🇿🇦   
+### 🌟 Fun Facts:  
 - 🎮 I’m interested in animation using Unreal Engine 5 & Blender in my spare time!
 
 ---
