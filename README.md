@@ -28,9 +28,9 @@
 ---
 
 ### 📫 Let's Connect:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/linathi-mqalo-8ab653194)  
 - 🌐 [Portfolio Website](https://yourwebsite.com)  
-- 📧 linathimqalo@example.com  
+- 📧 mqalolinathi@gmail.com 
 
 ---
 
