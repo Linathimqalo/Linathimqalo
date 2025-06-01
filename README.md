@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Hello there! I'm Linathi
 
-<!--
-**Linathimqalo/Linathimqalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Systems Administrator | Cybersecurity Analyst | Aspiring Red & Blue Teamer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm a passionate tech professional with experience in:
+
+- 🖥️ **Systems & Network Administration**  
+- 🌐 **Web Development** (Full-stack with React, Node.js, Next.js)  
+- 🔐 **Cybersecurity** (Blue Team, Red Team, SOC Analyst skills in progress)  
+- ☁️ **Cloud Platforms** (Google Workspace, Azure, Hostinger, Vercel, Cloudflare)  
+- 🛠️ Agile, Scrum & SDLC Practices
+
+---
+
+### 🧠 Currently Working On:
+- Building a solid cybersecurity foundation using:
+  - 🎓 HackTheBox, TryHackMe, LetsDefend, BlueTeam Labs Online  
+- Creating a personal cybersecurity homelab and technical blogs 🧪
+
+---
+
+### 🌟 Fun Facts:
+- 📍 Based in South Africa 🇿🇦   
+- 🎮 I’m interested in animation using Unreal Engine 5 & Blender in my spare time!
+
+---
+
+### 📫 Let's Connect:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- 🌐 [Portfolio Website](https://yourwebsite.com)  
+- 📧 linathimqalo@example.com  
+
+---
+
+> _"Strive not to be a success, but rather to be of value."_ – Albert Einstein
+
